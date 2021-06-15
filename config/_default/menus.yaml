@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
- - name: Teaching
+  - name: Teaching
     url: '#teaching '
     weight: 25
 
